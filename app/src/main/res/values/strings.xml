@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Onlay</string>
+    <string name="app_zhuce">快速注册</string>
+    <string name="app_jizhu">记住密码</string>
+    <string name="app_na">请输入账户</string>
+    <string name="app_pwd">请输入密码</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
